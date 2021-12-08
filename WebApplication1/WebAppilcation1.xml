@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAppilcation1</name>
+    </assembly>
+    <members>
+        <member name="M:Students.Controllers.StudentController.Get">
+            <summary>
+            Get all the Students available 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Students.Controllers.StudentController.Post(Students.Data.Entites.Student)">
+            <summary>
+            Add a new Student
+            </summary>
+            <param name="model">These are your student properties</param>
+            <returns>StudentID</returns>
+        </member>
+        <member name="M:Students.Controllers.StudentController.Delete(System.Int32)">
+            <summary>
+            Delete a Student
+            </summary>
+            <param name="model">These are your student properties</param>
+            <returns>StudentID</returns>
+        </member>
+        <member name="T:Students.Data.Entites.Student">
+            <summary>
+            A Student with Id, Name, Surname and Grade fields
+            </summary>
+        </member>
+        <member name="P:Students.Data.Entites.Student.Id">
+            <summary>
+            The id of a student 
+            </summary>
+        </member>
+        <member name="P:Students.Data.Entites.Student.Name">
+            <summary>
+            The Name(s) of a student
+            </summary>
+        </member>
+        <member name="P:Students.Data.Entites.Student.Surname">
+            <summary>
+            The Surname of a student
+            </summary>
+        </member>
+        <member name="P:Students.Data.Entites.Student.Grade">
+            <summary>
+            The Grade of a student
+            </summary>
+        </member>
+    </members>
+</doc>

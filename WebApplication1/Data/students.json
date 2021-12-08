@@ -1,0 +1,44 @@
+[
+	{
+		"Id": 0,
+		"Name": "Poster",
+		"Surname": "Pretty",
+		"Grade": "10"
+	},
+	{
+		"Id": 0,
+		"Name": "Rembrandt",
+		"Surname": "Harmensz",
+		"Grade": "11"
+	},
+	{
+		"Id": 0,
+		"Name": "Johannes",
+		"Surname": "Vermeer",
+		"Grade": "9"
+	},
+	{
+		"Id": 0,
+		"Name": "Vincent",
+		"Surname": "van Gogh",
+		"Grade": "12"
+	},
+	{
+		"Id": 0,
+		"Name": "Mary-Anne",
+		"Surname": "Willson",
+		"Grade": "10"
+	},
+	{
+		"Id": 0,
+		"Name": "Sam",
+		"Surname": "Johnson",
+		"Grade": "10"
+	},
+	{
+		"Id": 0,
+		"Name": "Peter",
+		"Surname": "Jackson",
+		"Grade": "8"
+	}
+]
